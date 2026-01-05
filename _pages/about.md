@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.bits-pilani.ac.in/hyderabad/">Assistant Professor</a> at <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/">Dept. of EEE, BITS Pilani, Hyderabad</a>. [cite_start]Office: H-219. [cite_start]<br> Email: <a href="mailto:nitishkumar.gupta@hyderabad.bits-pilani.ac.in">nitishkumar.gupta@hyderabad.bits-pilani.ac.in</a>[cite: 8]. [cite_start]Phone: +91 40 66303962[cite: 10].
 
 profile:
   align: right
