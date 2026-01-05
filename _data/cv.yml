@@ -3,93 +3,130 @@
   contents:
     - name: Full Name
       value: Dr. Nitish Kumar Gupta
+    - name: Date of Birth
+      value: 21 June 1988
+    - name: Gender
+      value: Male
+    - name: Category
+      value: General
+    - name: Institution
+      value: Birla Institute of Technology and Science (BITS), Pilani – Hyderabad Campus
     - name: Email
       value: nitishkumar.gupta@hyderabad.bits-pilani.ac.in
+    - name: Alternate Email
+      value: nits.iitk@gmail.com
+    - name: Phone
+      value: +91 7522002705
+    - name: Address
+      value: Jawahar Nagar, Kapra Mandal, Medchal, Telangana, India
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D. in Photonics Science & Engineering
-      institution: Indian Institute of Technology Kanpur
+      institution: Indian Institute of Technology Kanpur (IIT Kanpur)
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis: Multispectral Dispersion Engineering of Sub-Wavelength & Surface States
+        - Supervisors:
+          - Prof. Harshawardhan Wanare
+          - Prof. S. Anantha Ramakrishna
+        - CGPA: 9.5
+
+    - title: B.Tech. in Electrical & Electronics Engineering
+      institution: U.P. Technical University, Lucknow (AKTU)
+      year: 2010
       description:
-        - Description 1.
-        - Description 2.
+        - Graduated with Honours
+        - Percentage: 77%
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Postdoctoral Research Fellow
+      institution: Nanyang Technological University (NTU), Singapore
+      year: Feb 2024 – May 2024
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Project Scientist I
+      institution: Centre for Nanoscience & Engineering, IISc Bangalore
+      year: Oct 2023 – Feb 2024
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Research Associate
+      institution: FSID, Indian Institute of Science (IISc), Bangalore
+      year: Aug 2023 – Sep 2023
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Project Associate II
+      institution: IIT Kanpur
+      year: Dec 2022 – Jul 2023
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Deputy Manager
+      institution: NTPC Ltd.
+      year: Sep 2011 – Jul 2017
+
+    - title: Graduate Engineer Trainee
+      institution: Jindal Steel & Power Ltd.
+      year: Jul 2010 – May 2011
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Outstanding Ph.D. Thesis Award, IIT Kanpur
+    - year: 2022
       items:
-        - Max Planck Medal
+        - Best Ph.D. Thesis Award, Indian Laser Association
+        - Featured Article in Applied Physics Letters (AIP)
+    - year: 2021
+      items:
+        - 100 Seconds Thesis Award, INAE
+        - Best Poster Presentation, OSA Student Chapter
+    - year: 2013
+      items:
+        - CMD’s Gold Medal, NTPC Ltd.
+        - Directors’ Meritorious Citation, NTPC Ltd.
+    - year: 2010
+      items:
+        - Best Graduating Engineer Award, SRMS Trust
+
+- title: Patents
+  type: time_table
+  contents:
+    - title: Complementary Quarter-wave Retardance Device for Generating Polarization States
+      year: 2025
+      description:
+        - Patent No: 563145
+        - Country: India
+        - Status: Awarded
+
+- title: Book Chapters
+  type: time_table
+  contents:
+    - title: Active Tunability in Resonant Metamaterials Using Phase Transitions
+      year: In Press
+      description:
+        - Publisher: Springer
+        - Book: Handbook of Measurement and Characterization of Metamaterials
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Photonic Crystals & Metamaterials
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Dispersion engineering
+        - Topological photonics
+    - title: Nanophotonics
       items:
-        - Description 1.
-        - Description 2.
+        - Sub-wavelength resonators
+        - Guided-mode resonances
+    - title: Polarization & Surface States
+      items:
+        - Singular optics
+        - Surface state engineering
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Invited Talks:</u> PIERS 2025 (UAE), ITMO University (Russia)
+    - <u>Certifications:</u> Rice University (Nanotechnology), TU Delft (Solar Energy)
+    - <u>Outreach:</u> Photonics awareness lectures and IEEE/OSA events
