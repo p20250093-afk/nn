@@ -642,7 +642,9 @@ jsonresume:
   - publications
   - patents
   - book_chapters
-  - certificates
   - languages
   - interests
+  - projects
+  - references
+  - volunteer
 
