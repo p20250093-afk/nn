@@ -1,132 +1,179 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Dr. Nitish Kumar Gupta
-    - name: Date of Birth
-      value: 21 June 1988
-    - name: Gender
-      value: Male
-    - name: Category
-      value: General
-    - name: Institution
-      value: Birla Institute of Technology and Science (BITS), Pilani – Hyderabad Campus
-    - name: Email
-      value: nitishkumar.gupta@hyderabad.bits-pilani.ac.in
-    - name: Alternate Email
-      value: nits.iitk@gmail.com
-    - name: Phone
-      value: +91 7522002705
-    - name: Address
-      value: Jawahar Nagar, Kapra Mandal, Medchal, Telangana, India
+{
+  "basics": {
+    "name": "Dr. Nitish Kumar Gupta",
+    "label": "Assistant Professor",
+    "email": "nitishkumar.gupta@hyderabad.bits-pilani.ac.in",
+    "phone": "+91 7522002705",
+    "url": "https://p20250093-afk.github.io/nn/",
+  
+    },
+    {
+  "education": [
+    {
+      "institution": "Indian Institute of Technology Kanpur",
+      "area": "Photonics Science & Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2017-01-01",
+      "endDate": "2023-01-01",
+      "score": "9.5 CGPA",
+      "courses": [
+        "Multispectral Dispersion Engineering",
+        "Topological Photonics",
+        "Metamaterials"
+      ]
+    },
+    {
+      "institution": "U.P. Technical University (AKTU), Lucknow",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "B.Tech.",
+      "endDate": "2010-01-01",
+      "score": "77% (Honours)"
+    }
+  ],
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. in Photonics Science & Engineering
-      institution: Indian Institute of Technology Kanpur (IIT Kanpur)
-      year: 2023
-      description:
-        - Thesis: Multispectral Dispersion Engineering of Sub-Wavelength & Surface States
-        - Supervisors:
-          - Prof. Harshawardhan Wanare
-          - Prof. S. Anantha Ramakrishna
-        - CGPA: 9.5
+  "work": [
+  {
+    "name": "Nanyang Technological University (NTU), Singapore",
+    "position": "Postdoctoral Research Fellow",
+    "startDate": "2024-02-01",
+    "endDate": "2024-05-01"
+  },
+  {
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "position": "Project Scientist I",
+    "startDate": "2023-10-01",
+    "endDate": "2024-02-01"
+  },
+  {
+    "name": "Indian Institute of Science (IISc), Bangalore",
+    "position": "Research Associate",
+    "startDate": "2023-08-01",
+    "endDate": "2023-09-01"
+  },
+  {
+    "name": "Indian Institute of Technology Kanpur",
+    "position": "Project Associate II",
+    "startDate": "2022-12-01",
+    "endDate": "2023-07-01"
+  },
+  {
+    "name": "NTPC Ltd.",
+    "position": "Deputy Manager",
+    "startDate": "2011-09-01",
+    "endDate": "2017-07-01"
+  },
+  {
+    "name": "Jindal Steel & Power Ltd. (JSPL)",
+    "position": "Graduate Engineer Trainee",
+    "startDate": "2010-07-01",
+    "endDate": "2011-05-01"
+  }
+],
+  "awards": [
+  {
+    "title": "Outstanding Ph.D. Thesis Award",
+    "date": "2023-01-01",
+    "awarder": "Indian Institute of Technology Kanpur"
+  },
+  {
+    "title": "Best Ph.D. Thesis Award",
+    "date": "2022-01-01",
+    "awarder": "Indian Laser Association (DAE-BRNS National Laser Symposium, IIT Kharagpur)"
+  },
+  {
+    "title": "Featured Article in Applied Physics Letters",
+    "date": "2022-01-01",
+    "awarder": "American Institute of Physics (AIP) Publishing"
+  },
+  {
+    "title": "100 Seconds Thesis Award",
+    "date": "2021-01-01",
+    "awarder": "Indian National Academy of Engineering (INAE), Kanpur Chapter"
+  },
+  {
+    "title": "Best Poster Presentation",
+    "date": "2021-01-01",
+    "awarder": "OSA Student Chapter, NISER Bhubaneswar"
+  },
+  {
+    "title": "Best Technical Write-up Award",
+    "date": "2020-01-01",
+    "awarder": "OSA–IEEE–Photonics Society Student Chapter, IIT Bombay"
+  },
+  {
+    "title": "Best Poster Award",
+    "date": "2019-01-01",
+    "awarder": "IEEE Photonics Society (WRAP, IIT Guwahati)"
+  },
+  {
+    "title": "CMD’s Gold Medal",
+    "date": "2013-01-01",
+    "awarder": "NTPC Ltd."
+  },
+  {
+    "title": "Directors’ Meritorious Citation",
+    "date": "2013-01-01",
+    "awarder": "Board of Directors, NTPC Ltd."
+  },
+  {
+    "title": "Best Graduating Engineer Award",
+    "date": "2010-01-01",
+    "awarder": "Shri Ram Murti Smarak Trust, Bareilly"
+  }
+],
 
-    - title: B.Tech. in Electrical & Electronics Engineering
-      institution: U.P. Technical University, Lucknow (AKTU)
-      year: 2010
-      description:
-        - Graduated with Honours
-        - Percentage: 77%
+  "patents": [
+  {
+    "title": "Complementary Quarter-wave Retardance Device for Generating One or More Polarization States",
+    "number": "563145",
+    "date": "2025-03-01",
+    "country": "India",
+    "status": "Awarded",
+    "Name of Applicants": [
+      "Nitish Kumar Gupta",
+      "Pradeep Chakravarthy",
+      "Mushkumar",
+      "Anjani Kumar Tiwari",
+      "Sudipta Sarkar Pal",
+      "Kumar Vaibhav Srivastava",
+      "Harshawardhan Wanare",
+      "S. Anantha Ramakrishna"
+    ]
+  }
+],
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Postdoctoral Research Fellow
-      institution: Nanyang Technological University (NTU), Singapore
-      year: Feb 2024 – May 2024
+  "book_chapters": [
+  {
+    "title": "Active Tunability in Resonant Metamaterials Using Phase Transitions",
+    "authors": [
+      "Nikita Choudhary",
+      "Anjani Kumar Tiwari",
+      "Nitish Kumar Gupta"
+    ],
+    "book_title": "Handbook of Measurement and Characterization of Metamaterials",
+    "publisher": "Springer",
+    "year": "In Press"
+  }
+],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    }
+  ],
 
-    - title: Project Scientist I
-      institution: Centre for Nanoscience & Engineering, IISc Bangalore
-      year: Oct 2023 – Feb 2024
-
-    - title: Research Associate
-      institution: FSID, Indian Institute of Science (IISc), Bangalore
-      year: Aug 2023 – Sep 2023
-
-    - title: Project Associate II
-      institution: IIT Kanpur
-      year: Dec 2022 – Jul 2023
-
-    - title: Deputy Manager
-      institution: NTPC Ltd.
-      year: Sep 2011 – Jul 2017
-
-    - title: Graduate Engineer Trainee
-      institution: Jindal Steel & Power Ltd.
-      year: Jul 2010 – May 2011
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items:
-        - Outstanding Ph.D. Thesis Award, IIT Kanpur
-    - year: 2022
-      items:
-        - Best Ph.D. Thesis Award, Indian Laser Association
-        - Featured Article in Applied Physics Letters (AIP)
-    - year: 2021
-      items:
-        - 100 Seconds Thesis Award, INAE
-        - Best Poster Presentation, OSA Student Chapter
-    - year: 2013
-      items:
-        - CMD’s Gold Medal, NTPC Ltd.
-        - Directors’ Meritorious Citation, NTPC Ltd.
-    - year: 2010
-      items:
-        - Best Graduating Engineer Award, SRMS Trust
-
-- title: Patents
-  type: time_table
-  contents:
-    - title: Complementary Quarter-wave Retardance Device for Generating Polarization States
-      year: 2025
-      description:
-        - Patent No: 563145
-        - Country: India
-        - Status: Awarded
-
-- title: Book Chapters
-  type: time_table
-  contents:
-    - title: Active Tunability in Resonant Metamaterials Using Phase Transitions
-      year: In Press
-      description:
-        - Publisher: Springer
-        - Book: Handbook of Measurement and Characterization of Metamaterials
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Photonic Crystals & Metamaterials
-      items:
-        - Dispersion engineering
-        - Topological photonics
-    - title: Nanophotonics
-      items:
-        - Sub-wavelength resonators
-        - Guided-mode resonances
-    - title: Polarization & Surface States
-      items:
-        - Singular optics
-        - Surface state engineering
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Invited Talks:</u> PIERS 2025 (UAE), ITMO University (Russia)
-    - <u>Certifications:</u> Rice University (Nanotechnology), TU Delft (Solar Energy)
-    - <u>Outreach:</u> Photonics awareness lectures and IEEE/OSA events
+  "interests": [
+    {
+      "name": "Researcher in photonics",
+      "keywords": [
+        "Nanophotonics",
+        "Topological Photonics",
+        "Photonic Integrated Circuits"
+      ]
+    }
+  ]
+}
