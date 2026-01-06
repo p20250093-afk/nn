@@ -636,15 +636,13 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  -education
-  -work
-  -awards
-  -patents
-  -book_chapters
-  -languages
-  -interests
-  -projects
-  -publication
-  -references
-  -volunteer
-  
+  - education
+  - work
+  - awards
+  - publications
+  - patents
+  - book_chapters
+  - certificates
+  - languages
+  - interests
+
