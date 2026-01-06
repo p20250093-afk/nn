@@ -1,28 +1,26 @@
 {
   "basics": {
     "name": "Dr. Nitish Kumar Gupta",
-    "label": "Assistant Professor",
-    "image": "",
+    "label": "Postdoctoral Researcher | Photonics & Metamaterials",
     "email": "nitishkumar.gupta@hyderabad.bits-pilani.ac.in",
     "phone": "+91 7522002705",
     "url": "https://p20250093-afk.github.io/nn/",
-    "summary": "bb.",
+    "summary": "Researcher in photonics, metamaterials, dispersion engineering, and topological photonic systems with experience across IIT Kanpur, IISc Bangalore, NTU Singapore, and BITS Pilani.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "Jawahar Nagar, Kapra Mandal",
+      "postalCode": "500078",
       "city": "Hyderabad",
-      "countryCode": "IN",
-      "region": "Telangana"
+      "region": "Telangana",
+      "countryCode": "IN"
     },
     "profiles": [
       {
-        "network": "Website",
-        "username": "Nitish Kumar Gupta",
-        "url": "https://p20250093-afk.github.io/nn/"
+        "network": "Email",
+        "username": "Institute Email",
+        "url": "mailto:nitishkumar.gupta@hyderabad.bits-pilani.ac.in"
       }
     ]
   },
-
   "education": [
     {
       "institution": "Indian Institute of Technology Kanpur",
