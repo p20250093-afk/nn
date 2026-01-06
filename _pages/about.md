@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:Assistant Professor | Department of Electrical and Electronics Engineering @ 
+subtitle: Assistant Professor | Department of Electrical and Electronics Engineering @ 
 <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/" target="_blank">
 BITS Pilani, Hyderabad
 </a><br>
