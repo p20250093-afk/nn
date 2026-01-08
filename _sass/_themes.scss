@@ -5,45 +5,43 @@
 @use "sass:color";
 
 :root {
-  color-scheme: light;
-  --global-bg-color: #ffffff;             /* Pure White */
-  --global-code-bg-color: #f8fafc;        /* Very light grey for code */
-  --global-text-color: #1e293b;           /* Dark slate for high readability */
-  --global-text-color-light: #64748b;
-  
-  /* 🔵 Scientific Blue Theme */
-  --global-theme-color: #1e40af;          /* Royal Blue (instead of Teal) */
-  --global-hover-color: #3b82f6;          /* Brighter blue on hover */
-  --global-hover-text-color: #ffffff;
-  
-  --global-footer-bg-color: #1e293b;
-  --global-footer-text-color: #cbd5e1;
-  --global-footer-link-color: #ffffff;
-  --global-distill-app-color: #64748b;
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #ffffff;
-  --global-highlight-color: #dbeafe;      /* Light blue highlight */
+  color-scheme: light;
+  --global-bg-color: #{$white-color};
+  --global-code-bg-color: #{$code-bg-color-light};
+  --global-text-color: #{$black-color};
+  --global-text-color-light: #{$grey-color};
+  --global-theme-color: #0f766e; /* teal */
+  --global-hover-color: #0f766e;
+  --global-hover-text-color: #{$white-color};
+  --global-footer-bg-color: #{$grey-color-dark};
+  --global-footer-text-color: #{$grey-color-light};
+  --global-footer-link-color: #{$white-color};
+  --global-distill-app-color: #{$grey-color};
+  --global-divider-color: rgba(0, 0, 0, 0.1);
+  --global-card-bg-color: #{$white-color};
+  --global-highlight-color: #0f766e;
+  --global-back-to-top-bg-color: rgba(
+    #{color.channel($black-color, "red", $space: rgb)},
+    #{color.channel($black-color, "green", $space: rgb)},
+    #{color.channel($black-color, "blue", $space: rgb)},
+    0.4
+  );
+  --global-back-to-top-text-color: #{$white-color};
+  --global-newsletter-bg-color: #{$white-color};
+  --global-newsletter-text-color: #{$black-color};
 
-  --global-back-to-top-bg-color: rgba(30, 64, 175, 0.7);
-  --global-back-to-top-text-color: #ffffff;
-  --global-newsletter-bg-color: #ffffff;
-  --global-newsletter-text-color: #1e293b;
-
-  /* 📘 Tip/Science Blocks */
-  --global-tip-block: #1e40af;
-  --global-tip-block-bg: #eff6ff;         /* Very light blue tint */
-  --global-tip-block-text: #1e3a8a;
-  --global-tip-block-title: #1e40af;
-
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
-
+  --global-tip-block: #0f766e;
+  --global-tip-block-bg: #e6fffa;
+  --global-tip-block-text: #065f46;
+  --global-tip-block-title: #0f766e;
+  --global-warning-block: #e7c000;
+  --global-warning-block-bg: #fff8d8;
+  --global-warning-block-text: #6b5900;
+  --global-warning-block-title: #b29400;
+  --global-danger-block: #c00;
+  --global-danger-block-bg: #ffe0e0;
+  --global-danger-block-text: #600;
+  --global-danger-block-title: #c00;
 
   #light-toggle-system {
     padding-left: 10px;
