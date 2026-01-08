@@ -38,8 +38,21 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have received my Ph.D. degree in Photonics Science and Engineering from the Indian
+Institute of Technology (IIT) Kanpur, India, in 2023.
+I am currently working as an Assistant Professor in the Department of Electrical and
+Electronics Engineering at the Birla Institute of Technology and Science (BITS) Pilani
+Hyderabad Campus. Prior to my current position, I had an opportunity to work as a
+Postdoctoral Research Fellow in Prof. Ranjan Singh&#39;s research group at the Centre for
+Disruptive Photonic Technologies, Nanyang Technological University (NTU), Singapore.
+Before that, in 2023, I served as a Project Scientist with the Centre for Nanoscience and
+Engineering, Indian Institute of Science (IISc), Bangalore, India. Back in 2010, after my
+undergraduate studies, I went on to gain professional experience with the core sector
+manufacturing industries and joined Jindal Steel &amp; Power Ltd. (JSPL). After a brief stint at
+JSPL, I joined NTPC Ltd. (a Govt. of India Maharatna PSU) in 2011 and served there in the
+capacity of Deputy Manager till 2017. Thereafter, moved back to academics and joined the
+Ph.D. program at the Indian Institute of Technology (IIT) Kanpur, India, in 2017. My Ph.D.
+thesis on dispersion-engineered sub-wavelength and surface states was conferred with an
+Outstanding Ph.D. Thesis Award by IIT Kanpur in its 56th Convocation. It has also received
+the Best PhD Thesis award from the Indian Laser Association in DAE-BRNS National Laser
+Symposium-32.
