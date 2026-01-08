@@ -5,44 +5,46 @@
 @use "sass:color";
 
 :root {
-  color-scheme: light;
-  --global-bg-color: #{$white-color};
-  --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
-  --global-theme-color: #0f766e; /* teal */
-  --global-hover-color: #0f766e;
-  --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$grey-color-dark};
-  --global-footer-text-color: #{$grey-color-light};
-  --global-footer-link-color: #{$white-color};
-  --global-distill-app-color: #{$grey-color};
-  --global-divider-color: rgba(0, 0, 0, 0.1);
-  --global-card-bg-color: #{$white-color};
-  --global-highlight-color: #0f766e;
-  --global-back-to-top-bg-color: rgba(
-    #{color.channel($black-color, "red", $space: rgb)},
-    #{color.channel($black-color, "green", $space: rgb)},
-    #{color.channel($black-color, "blue", $space: rgb)},
-    0.4
-  );
-  --global-back-to-top-text-color: #{$white-color};
-  --global-newsletter-bg-color: #{$white-color};
-  --global-newsletter-text-color: #{$black-color};
+  color-scheme: dark; /* Changed to dark for the 🌌 theme */
+  --global-bg-color: #050505; /* Near black */
+  --global-code-bg-color: #1a1a2e; /* Dark navy */
+  --global-text-color: #e2e8f0; /* Soft white/silver */
+  --global-text-color-light: #94a3b8; 
+  
+  /* 🌌 Deep Space Theme Colors */
+  --global-theme-color: #6366f1; /* Indigo - representing light/spectrum */
+  --global-hover-color: #8b5cf6; /* Violet hover */
+  --global-hover-text-color: #ffffff;
+  
+  --global-footer-bg-color: #0f172a;
+  --global-footer-text-color: #94a3b8;
+  --global-footer-link-color: #8b5cf6;
+  --global-distill-app-color: #64748b;
+  --global-divider-color: rgba(255, 255, 255, 0.1);
+  --global-card-bg-color: #111827;
+  --global-highlight-color: #4f46e5; /* Deep purple/blue highlight */
 
-  --global-tip-block: #0f766e;
-  --global-tip-block-bg: #e6fffa;
-  --global-tip-block-text: #065f46;
-  --global-tip-block-title: #0f766e;
-  --global-warning-block: #e7c000;
-  --global-warning-block-bg: #fff8d8;
-  --global-warning-block-text: #6b5900;
-  --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
-  --global-danger-block-bg: #ffe0e0;
-  --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  --global-back-to-top-bg-color: rgba(99, 102, 241, 0.4);
+  --global-back-to-top-text-color: #ffffff;
+  --global-newsletter-bg-color: #1e1b4b;
+  --global-newsletter-text-color: #e2e8f0;
 
+  /* 🌌 Science Block Variations */
+  --global-tip-block: #6366f1;
+  --global-tip-block-bg: #1e1b4b; /* Dark indigo background */
+  --global-tip-block-text: #c7d2fe;
+  --global-tip-block-title: #818cf8;
+  
+  --global-warning-block: #f59e0b;
+  --global-warning-block-bg: #451a03;
+  --global-warning-block-text: #fef3c7;
+  --global-warning-block-title: #fbbf24;
+  
+  --global-danger-block: #ef4444;
+  --global-danger-block-bg: #450a0a;
+  --global-danger-block-text: #fee2e2;
+  --global-danger-block-title: #f87171;
+}
   #light-toggle-system {
     padding-left: 10px;
     padding-top: 12px;
