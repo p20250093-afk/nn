@@ -23,5 +23,13 @@ profiles:
     more_info: >
       <p>Chennoju Phanindra</p>
       <p>PhD scholar</p>
+
+   - align: left
+    image: phani.jpeg
+    content: Malleswari.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Chennoju Phanindra</p>
+      <p>PhD scholar</p>
       
 ---
