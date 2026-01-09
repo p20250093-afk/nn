@@ -28,6 +28,6 @@ profiles:
     content: malleswari.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      Malleswari<br>
-      PhD scholar
+     <p>Chennoju Phanindra</p>
+      <p>PhD scholar</p>
 ---
