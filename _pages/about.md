@@ -54,7 +54,7 @@ My Ph.D. thesis on dispersion-engineered sub-wavelength and surface states recei
 
 <br><br>
 
-<h3>Research</h3>
+<h3><strong>Research</strong>strong></h3>
 
 My research sits at the intersection of nanophotonics and quantum matter, where carefully designed photonic structures—photonic crystals, guided-mode resonance platforms, and plasmonic/metasurface geometries—are used to sculpt resonances that strengthen and control light–matter interaction. I am especially interested in topological photonics and photonic realizations of quantum condensed-matter physics, translating concepts such as protected states and engineered bandstructures into compact, robust optical platforms.
 
