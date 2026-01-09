@@ -7,21 +7,27 @@ nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: left
     image: ardra.jpeg
     content: ardra.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Ardra Muriyankandathil</p>
-      <p>PhD scholar (BITS Pilani-La Trobe University joint PhD)</p>
+      <p>PhD Scholar (BITS Pilani-La Trobe University joint PhD)</p>
+
   - align: right
     image: phani.jpeg
     content: phani.md
-    image_circular: false # crops the image to make it circular
+    image_circular: false
     more_info: >
       <p>Chennoju Phanindra</p>
-      <p>PhD scholar</p>
-   
+      <p>PhD Scholar</p>
+
+  - align: left
+    image: malleswari.jpeg
+    content: malleswari.md
+    image_circular: false
+    more_info: >
+      <p>Malleswari</p>
+      <p>PhD Scholar</p>
 ---
