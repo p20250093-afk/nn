@@ -1,0 +1,1 @@
+B. Malleswari has substantial experience in field evaluation and testing of microwave hardware. She seeks to translate this hands-on expertise into a structured library of measurement protocols, benchmarks, and reference datasets for researchers developing reconfigurable intelligent surfaces (RISs).
