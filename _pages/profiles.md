@@ -20,7 +20,7 @@ profiles:
     content: phani.md
     image_circular: false
     more_info: >
-      <p>Chennoju Phanindra<br></p>
+      <p>Chennoju Phanindra</p>
       <p>PhD Scholar</p>
 
   - align: left
