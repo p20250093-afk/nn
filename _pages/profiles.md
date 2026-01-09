@@ -27,10 +27,10 @@ profiles:
     content: malleswari.md
     image_circular: false
     more_info: >
-      more_info: >
-     <p>Bommalapati Malleswari</p>
+      <p>Bommalapati Malleswari</p>
       <p>PhD Scholar</p>
       <p>Employed at C-DOT</p>
+     
 
      
 ---
