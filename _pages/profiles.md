@@ -12,7 +12,7 @@ profiles:
   - align: left
     image: ardra.jpeg
     image_size: 120
-     content: Ardra is interested in the physics of second-harmonic generation and its application space, with a focus on boosting SHG efficiency through nanophotonic design and field-engineering strategies.
+     # content: Ardra is interested in the physics of second-harmonic generation and its application space, with a focus on boosting SHG efficiency through nanophotonic design and field-engineering strategies.
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Ardra Muriyankandathil </p>
@@ -30,7 +30,7 @@ profiles:
       - align: left
     image: ardra.jpeg
     image_size: 120
-    content: B. Malleswari has substantial experience in field evaluation and testing of microwave hardware. She seeks to translate this hands-on expertise into a structured library of measurement protocols, benchmarks, and reference datasets for researchers developing reconfigurable intelligent surfaces (RISs).
+    # content: B. Malleswari has substantial experience in field evaluation and testing of microwave hardware. She seeks to translate this hands-on expertise into a structured library of measurement protocols, benchmarks, and reference datasets for researchers developing reconfigurable intelligent surfaces (RISs).
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Ardra Muriyankandathil </p>
