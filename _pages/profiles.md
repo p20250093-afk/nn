@@ -18,7 +18,7 @@ profiles:
       <p>PhD scholar (BITS Pilani-la Trobe joint PhD)</p>
   - align: right
     image: phani.jpeg
-    content: about_einstein.md
+    content: phani.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Chennoju Phanindra</p>
