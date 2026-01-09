@@ -23,7 +23,6 @@ profiles:
     more_info: >
       <p>Chennoju Phanindra</p>
       <p>PhD scholar</p>
-
    - align: left
     image: phani.jpeg
     content: Malleswari.md
