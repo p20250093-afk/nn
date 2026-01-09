@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Ardra Muriyankandathil</p>
-      <p>PhD scholar (BITS Pilani-la Trobe joint PhD)</p>
+      <p>PhD scholar (BITS Pilani-La Trobe University joint PhD)</p>
   - align: right
     image: phani.jpeg
     content: phani.md
@@ -23,4 +23,11 @@ profiles:
     more_info: >
       <p>Chennoju Phanindra</p>
       <p>PhD scholar</p>
+    - align: left
+    image: phani.jpeg
+    content: malleswari.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      Malleswari<br>
+      PhD scholar
 ---
