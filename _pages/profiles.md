@@ -11,7 +11,7 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: ardra.jpeg
-     content: about_einstein.md
+     content: ardra.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p> Ardra Muriyankandathil </p>
@@ -26,6 +26,14 @@ profiles:
      <p> Chennoju Phanindra</p>
       <p> PhD scholar</p>
       
-    
+     - align: left
+    image: phani.jpeg
+  content: Malleswari.md
+    image_circular: false # crops the image to make it circular
+   
+    more_info: >
+     <p> Chennoju Phanindra</p>
+      <p> PhD scholar</p>
+      
 ---
 
