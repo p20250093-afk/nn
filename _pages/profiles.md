@@ -20,8 +20,8 @@ profiles:
     content: phani.md
     image_circular: false
     more_info: >
-      <p>Chennoju Phanindra</p>
-      <p>PhD Scholar</p>
+      <p>Chennoju Phanindra<br>
+      PhD Scholar</p>
 
   - align: left
     image: malleswari.jpeg
@@ -30,4 +30,6 @@ profiles:
     more_info: >
       <p>Malleswari</p>
       <p>PhD Scholar</p>
+     <p>Employed at C-DOT</p>
+      
 ---
