@@ -21,14 +21,14 @@ profiles:
     image_circular: false
     more_info: |
       <p>Chennoju Phanindra     </p>
-      <p>PhD Scholar</p>
+      <p>(PhD Scholar)</p>
   - align: left
     image: malleswari.jpeg
     content: malleswari.md
     image_circular: false
     more_info: |
       <p>Bommalapati Malleswari</p>
-      <p>PhD Scholar           </p>
+      <p>Part-time PhD Scholar </p>
       <p>Employed at C-DOT</p>
      
 
