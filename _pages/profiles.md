@@ -30,7 +30,13 @@ profiles:
       <p>Bommalapati Malleswari</p>
       <p>Part-time PhD Scholar </p>
       <p>Employed at C-DOT</p>
-     
+  - align: right
+    image: prahlad.jpeg
+    content: prahlad.md
+    image_circular: false
+    more_info: |
+      <p>Prahlad MV     </p>
+      <p>Student at BITS Pilani</p>
 
      
      

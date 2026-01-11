@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <strong>Assistant Professor</strong>| Department of Electrical and Electronics Engineering @
