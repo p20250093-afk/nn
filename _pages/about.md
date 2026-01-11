@@ -3,15 +3,11 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <strong>Assistant Professor</strong>| Department of Electrical and Electronics Engineering @
-  <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/" target="_blank">
-   BITS Pilani, Hyderabad
-  </a><br>
+  <strong>Assistant Professor</strong> &#8226; Department of Electrical and Electronics Engineering<br>
+  <a href="https://www.bits-pilani.ac.in/hyderabad/electrical-electronics-engineering/" target="_blank">BITS Pilani, Hyderabad</a><br><br>
   <strong>Email:</strong> nitishkumar.gupta@hyderabad.bits-pilani.ac.in<br>
   <strong>Phone:</strong> +91 40 66303962<br>
-  <strong>Address:</strong> Department of Electrical and Electronics Engineering,
-  Office H-219,
-  BITS Pilani, Hyderabad Campus
+  <strong>Address:</strong> Office H-219, Department of EEE, BITS Pilani, Hyderabad Campus
 
 
 
@@ -28,7 +24,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true  # includes a list of news items
+  enabled: false  # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

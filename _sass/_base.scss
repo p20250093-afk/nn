@@ -193,6 +193,24 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+// About page subtitle/contact info
+.post-header {
+  .desc {
+    font-size: 0.95rem;
+    line-height: 1.8;
+    color: var(--global-text-color-light);
+    margin-bottom: 1.5rem;
+
+    strong {
+      color: var(--global-text-color);
+    }
+
+    a {
+      font-weight: 500;
+    }
+  }
+}
+
 // Profile
 
 .profile {
