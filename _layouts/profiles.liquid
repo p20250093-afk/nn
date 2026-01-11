@@ -1,5 +1,8 @@
 ---
 layout: page
+title: Research Group
+description: Members of the research group
+permalink: /research-group/
 ---
 <div class="post">
   <article>
@@ -7,29 +10,24 @@ layout: page
       {% for profile in page.profiles %}
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
+          
           {% if profile.image %}
             {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
-
+            
             {% if profile.image_circular %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle profile-img-small' %}
             {% else %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded profile-img-small' %}
             {% endif %}
-
-            {% capture sizes %}
-              (min-width: {{ site.max_width }}) 130px,
-              (min-width: 576px) 130px,
-              130px
-            {% endcapture %}
-
+            
             {% include figure.liquid
               loading="eager"
               path=profile_image_path
               class=profile_image_class
-              sizes=sizes
+              sizes="130px"
               alt=profile.image %}
           {% endif %}
-
+          
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
